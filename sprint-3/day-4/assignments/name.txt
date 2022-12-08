@@ -1,0 +1,2 @@
+let name="Jitu Gandhare";
+let age=25;
